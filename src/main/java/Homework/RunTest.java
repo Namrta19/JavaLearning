@@ -13,7 +13,7 @@ public class RunTest {
         P1.BAmodal();
 
         Plane P2 = new Plane();
-        P2.BAcolour();
+        P2.BAcolour();g
 
     }
 }
